@@ -71,10 +71,10 @@
 </head>
 <body>
   <div class="card">
-    <div class="msg1">لینک‌های ارتباطی</div>
+    <div class="msg1">دفتر پیشخوان دولتی و بخش عمومی</div>
     <div class="msg2">‌از حسن توجه شما بسیار سپاسگذاریم</div>
-    <div class="msg3">لطفا برای ثبت سفارش خود روی یکی از برنامه هایی که در دستگاهتون نصب هست کلیک کنید تا با تیم ما در ارتباط باشید</div>
-    <div class="msg4">توجه کنید که برای انتخاب تلگرام ابتدا باید فیلتر شکن شما فعال باشد</div>
+    <div class="msg3">تمامی ثبت نام های اینترنتی ، ثبت نام کنکور ، تعویض پلاک و ...</div>
+    <div class="msg4">(ICT) روستایی _ شماره مجوز 7311-1125</div>
 
     <div class="links-container">
       <a class="link-box" href="https://rubika.ir/ashrafi_c_net" target="_blank">روبیکا</a>
