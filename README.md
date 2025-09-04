@@ -74,20 +74,16 @@
     <div class="msg1">دفتر پیشخوان دولتی و بخش عمومی</div>
     <div class="msg2">‌از حسن توجه شما بسیار سپاسگذاریم</div>
     <div class="msg3">تمامی ثبت نام های اینترنتی ، ثبت نام کنکور ، تعویض پلاک و ...</div>
-    <div class="msg4">(ICT) روستایی _ شماره مجوز 7311-1125</div>
+    <div class="msg4">روستایی _ شماره مجوز 7311-1125(ICT)</div>
 
     <div class="links-container">
-      <a class="link-box" href="https://rubika.ir/ashrafi_c_net" target="_blank">روبیکا</a>
-      <a class="link-box" href="https://ble.ir/ashrafi_c_net" target="_blank">بله</a>
+
       <a class="link-box" href="https://sapp.ir/ashrafi_c_net" target="_blank">سروش</a>
-      <a class="link-box" href="https://shad.ir/prfcxe5593" target="_blank">شاد</a>
-      <a class="link-box" href="https://eitaa.com/ashrafi_c_net" target="_blank">ایتا</a>
-      <a class="link-box" href="https://t.me/ashrafi_c_net" target="_blank">تلگرام</a>
-      <a class="link-box" href="https://wa.me/989309166187" target="_blank">واتساپ</a>
+      <a class="link-box" href="https://wa.me/989148172072" target="_blank">واتساپ</a>
 
       <!-- باکس تماس تلفنی -->
-      <a class="link-box" href="tel:+989309166187">
-        تماس تلفنی: 0903-09166187
+      <a class="link-box" href="tel:+984432551422">
+        تماس تلفنی:
       </a>
     </div>
   </div>
