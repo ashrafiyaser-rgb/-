@@ -80,7 +80,7 @@
     <div class="msg4">روستایی _ شماره مجوز 1125-7311-(ICT)</div>
 
     <div class="links-container">
-      <a class="link-box" href="https://sapp.ir/ashrafi_c_net" target="_blank">سروش</a>
+      <a class="link-box" href="XXXXXXXXXXXXXXXXXXXXXXXXXX" target="_blank">سروش</a>
       <a class="link-box" href="https://wa.me/989148172072" target="_blank">واتساپ</a>
       <a class="link-box" href="tel:+984432551422">تماس تلفنی</a>
     </div>
